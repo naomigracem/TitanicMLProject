@@ -1,4 +1,4 @@
-# TitanicMLProject
+# Titanic ML Project
 A machine learning model that predicts whether YOU would have survived the Titanic disaster!  
 
 ### [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic)
